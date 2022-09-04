@@ -23,9 +23,19 @@ Os NFTs serão mintados na OpenSea, que é uma plataforma gratuita, o que facili
 
 # Protótipo de alta fidelidade
 
-Para a tela inicial pensamos no seguinte
+[link para o figma](https://www.figma.com/proto/ClAsjdbA7NlTiwsfTCvvGv/NFTurtle?node-id=27%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=5%3A2)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3915028c-97e4-405d-a213-985beea90681/Untitled.png)
+Segue algumas telas do nosso protótipo
+<p float="left">
+    <img src="https://github.com/hackingrio/hackingrio-2022-ods-14-desafio-oceanpact-change-one-life/blob/master/Telas/tela1.png" alt="drawing" width="200"/>
+    <img src="https://github.com/hackingrio/hackingrio-2022-ods-14-desafio-oceanpact-change-one-life/blob/master/Telas/tela2.png" alt="drawing" width="200"/>
+    <img src="https://github.com/hackingrio/hackingrio-2022-ods-14-desafio-oceanpact-change-one-life/blob/master/Telas/tela3.png" alt="drawing" width="200"/>
+</p>
+<p float="left">
+    <img src="https://github.com/hackingrio/hackingrio-2022-ods-14-desafio-oceanpact-change-one-life/blob/master/Telas/tela4.png" alt="drawing" width="200"/>
+    <img src="https://github.com/hackingrio/hackingrio-2022-ods-14-desafio-oceanpact-change-one-life/blob/master/Telas/tela5.png" alt="drawing" width="200"/>
+    <img src="https://github.com/hackingrio/hackingrio-2022-ods-14-desafio-oceanpact-change-one-life/blob/master/Telas/tela6.png" alt="drawing" width="200"/>
+</p>
 
 # MVP
 
